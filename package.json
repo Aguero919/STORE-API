@@ -16,6 +16,9 @@
     "start": "nodemon app.js"
   },
   "keywords": [],
-  "author": "Dwiden Mushahary",
+  "author": {
+    "name": "Aguero Sergio",
+    "email": "aguerosergio919@gmail.com"
+  },
   "license": "ISC"
 }
